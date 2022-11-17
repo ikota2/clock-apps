@@ -1,1 +1,5 @@
-# clock-apps
+### clock-apps
+
+- [ ] World clock
+- [ ] Stopwatch
+- [ ] Timer
